@@ -44,6 +44,3 @@ venv.bak/
 .vscode/
 *.swp
 *.swo
-
-# Machine Learning artifacts
-ml-model/*.pkl
